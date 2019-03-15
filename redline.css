@@ -1,0 +1,74 @@
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+
+.container {
+	background-image: url(http://electro-varia.be/____impro/1/onewebmedia/789620-yellow-colour-wallpaper-1920x1080-retina.jpg?etag=W%2F%22177bb-5a9fb3f1%22&ignoreAspectRatio&resize=1805,1015);
+	height: 100%;
+	width: 100%;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	margin: 0;
+  	max-width: 100%;
+}
+
+.winkel1 {
+	width: 70%;
+	height: 70%;
+	margin: 10% 10% 0 10%;
+}
+
+.winkel2 {
+	width: 70%;
+	height: 70%;
+	margin: 10% 10% 0 10%;
+}
+
+.infoWinkels {
+	margin-left: 5%;
+	
+}
+
+.Ingelmunster {
+	padding: 0;
+	justify-content: center;
+}
+
+.adres {
+	text-align: center;
+	list-style-position: inside;
+	list-style-type: none;
+	border-style: double;
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+
+
+.aboutUs {
+	justify-content: center;
+	display: flex;
+}
+
+.service {
+	height: auto;
+	display: flex;
+	align-items:center;
+	justify-content: space-between;
+	border-style: double;
+	background-color: white;
+	padding: 5%;
+}
+
+.textService {
+	margin-left: 15%;
+}
+
+.servicePic {
+	width: 20%;
+	height: auto;
+}
